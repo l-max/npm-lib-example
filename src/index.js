@@ -1,5 +1,4 @@
-console.log('this module will export stuff from "foo"')
+console.log('Yes, I can! :)')
+import Foo from './foo'
 
-module.exports = {
-    foo: require('./foo')
-}
+export {Foo}
