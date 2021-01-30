@@ -1,0 +1,13 @@
+{
+    "name": "rq",
+    "version": "1.0.0",
+    "description": "Example request",
+    "main": "src",
+    "private": true,
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "private-module-example": "github:l-max/rq#1.0.0"
+    }
+}
