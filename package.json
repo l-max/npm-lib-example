@@ -1,7 +1,7 @@
 {
-    "name": "rq",
+    "name": "npm-lib-example",
     "version": "1.0.0",
-    "description": "Example request",
+    "description": "Example library for use from github",
     "main": "src",
     "private": true,
     "scripts": {
